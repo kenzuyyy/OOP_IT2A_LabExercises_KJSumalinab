@@ -1,1 +1,1 @@
-# OOP_LabExercises_KJSumalinab
+# OOP_IT2A_LabExercises_KJSumalinab
